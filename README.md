@@ -17,10 +17,11 @@
 
 ###
 
-### Technical Skills
-- Computational Modeling and Simulations
-- UNIX/Linux
-- SQL Database Programming
+### Skills
+- Computational Modeling and Simulations       •
+- UNIX/Linux                                   •
+- Shell Script                                 •
+- SQL Database Programming                     •
 - Web Scraping
 - Networking
 - Computer Vision
