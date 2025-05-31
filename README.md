@@ -18,8 +18,8 @@
 ###
 
 ### Technical Skills
-- Computational Modeling
-- Simulations
+- Computational Modeling and Simulations
+- UNIX/Linux
 - SQL Database Programming
 - Web Scraping
 - Networking
