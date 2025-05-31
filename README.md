@@ -17,7 +17,7 @@
 ###
 
 ### Technical Skills
-<div>
+<div> </div>
 - Computational Modeling
 - Simulations
 - SQL Database Programming
@@ -25,7 +25,7 @@
 - Networking
 - Computer Vision
 - Internet Of Things
-</div>
+
 ###
 
 <div align="left">
