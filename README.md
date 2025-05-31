@@ -8,7 +8,22 @@
 
 ###
 
-<p align="left">Free text</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Learning since 2022<br>📚 Currently learning modeling and simulations<br>🎯 Goals: Data analyst proficiency<br></p>
+
+###
+
+### Technical Skills
+- Computational Modeling
+- Simulations
+- SQL Database Programming
+- Web Scraping
+- Networking
+- Computer Vision
+- Internet Of Things
 
 ###
 
