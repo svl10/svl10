@@ -16,7 +16,8 @@
 
 ###
 
-<h2 align="left"> Technical Skills </h2>
+### Technical Skills
+<div>
 - Computational Modeling
 - Simulations
 - SQL Database Programming
@@ -24,7 +25,7 @@
 - Networking
 - Computer Vision
 - Internet Of Things
-
+</div>
 ###
 
 <div align="left">
