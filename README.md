@@ -17,7 +17,6 @@
 ###
 
 ### Technical Skills
-<div> </div>
 - Computational Modeling
 - Simulations
 - SQL Database Programming
