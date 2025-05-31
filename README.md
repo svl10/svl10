@@ -18,14 +18,25 @@
 ###
 
 ### Skills
-- Computational Modeling and Simulations       •
-- UNIX/Linux                                   •
-- Shell Script                                 •
-- SQL Database Programming                     •
-- Web Scraping
-- Networking
-- Computer Vision
-- Internet Of Things
+
+<table>
+  <tr>
+    <td><strong>Computational Modeling and Simulations</strong></td>
+    <td><strong>Web Scraping</strong></td>
+  </tr>
+  <tr>
+    <td><strong>UNIX/Linux</strong></td>
+    <td><strong>Networking</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Shell Script</strong></td>
+    <td><strong>Computer Vision</strong></td>
+  </tr>
+  <tr>
+    <td><strong>SQL Database Programming</strong></td>
+    <td><strong>Internet Of Things</strong></td>
+  </tr>
+</table>
 
 ###
 
