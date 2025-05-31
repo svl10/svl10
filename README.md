@@ -13,7 +13,7 @@
 ###
 
 <p align="left">✨ Learning since 2022<br>📚 Currently learning modeling and simulations<br>🎯 Goals: Data analyst proficiency<br></p>
-<p align="left">⇒ </p><a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p>
+<p align="left">⇒ <a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p>
 ###
 
 ### Technical Skills
