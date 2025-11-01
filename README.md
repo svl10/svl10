@@ -13,7 +13,7 @@
 ###
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=svl10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <p align="left">✨ Learning since 2022<br>📚 Currently learning: AWS Cloud Computing<br>🎯 Goal: Data analyst proficiency<br></p>
-<p align="left">⇒ <a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p>
+<!-- <p align="left">⇒ <a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p> -->
 
 ###
 
