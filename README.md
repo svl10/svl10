@@ -1,4 +1,4 @@
-<h1 align="center">svl10</h1>
+<!-- <h1 align="center">svl10</h1>
 
 ###
 
@@ -72,4 +72,4 @@
 
 <!-- <img src="https://raw.githubusercontent.com/svl10/svl10/output/snake.svg" alt="Snake animation" /> -->
 
-###
+### -->
