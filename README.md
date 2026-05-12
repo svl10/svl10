@@ -4,6 +4,7 @@
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/-JiqUdyFnfkAAAAd/kasane-teto-teto.gif"  />
+  <div><img src="https://komarev.com/ghpvc/?username=svl10&style=flat-square&color=blue" alt=""/></div>
 </div>
 
 ###
@@ -12,7 +13,7 @@
 
 ###
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=svl10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<p align="left">✨ Learning since 2022<br>📚 Currently learning: AWS Cloud Computing<br>🎯 Goal: Data analyst proficiency<br></p>
+<p align="left">Hello my name is Sean, I'm a 22-year-old developer in Philippines. <br> I mostly do low level systems and embedded development.<br>I can do multiple languages but I'm mostly comfortable using C++, Rust, and Python.</p>
 <!-- <p align="left">⇒ <a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p> -->
 
 ###
@@ -34,15 +35,13 @@
   </tr>
   <tr>
     <td><strong>SQL Database Programming</strong></td>
-    <td><strong>Internet Of Things</strong></td>
+    <td><strong>Embedded Programming</strong></td>
   </tr>
 </table>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -70,6 +69,6 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/svl10/svl10/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/svl10/svl10/output/snake.svg" alt="Snake animation" />
 
 ###
