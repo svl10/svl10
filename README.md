@@ -13,7 +13,7 @@
 
 ###
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=svl10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-<p align="left">Hello my name is Sean, I'm a 22-year-old developer in Philippines. <br> I mostly do low level systems and backend development.<br>I can do multiple languages but I'm mostly comfortable using C++, Rust, and Python.</p>
+<p align="left">Hello my name is Sean, I'm a 22-year-old developer in Philippines. <br> I mostly do low level systems and backend development.<br>I can do multiple languages but I'm mostly comfortable using Rust, Javascript/Typescript, Python, and C++.</p>
 <!-- <p align="left">⇒ <a href="https://svl10.github.io/EPortfolio/"> EPortfolio Website </a> ⇐</p> -->
 
 ###
